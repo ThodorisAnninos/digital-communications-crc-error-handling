@@ -1,1 +1,2 @@
-# digital-communications-crc-error-handling
+# Εργασία στο μάθημα ψηφιακών επικοινωνιών
+Ανίχνευση σφαλμάτων με κώδικα crc υλοποιημένο σε python.
